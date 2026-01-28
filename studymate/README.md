@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Description:
+A research-oriented chatbot built using external AI APIs to support academic study.
 
-# Run and deploy your AI Studio app
+Features:
 
-This contains everything you need to run your app locally.
+API-based responses
 
-View your app in AI Studio: https://ai.studio/apps/drive/1-VGwNC-kkqWKXivL73c669bq06AUmOmc
+Practical AI system integration
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Tech Stack:
+Python / HTML, CSS, JavaScript, AI APIs (Gemini)
