@@ -1,0 +1,7 @@
+{
+  "name": "StudyMate",
+  "description": "An AI-powered personal academic operating system with smart planning, analytics, and an AI study mentor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
